@@ -1,2 +1,6 @@
 # DataAnalysisCases
-记录着数据分析的案例
+
+Record cases of data analysis, mainly involving analysis methods🗒, visualization content🖼, and ML🤖
+
+
+The project is constantly being updated.....
